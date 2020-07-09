@@ -4,6 +4,6 @@ Software developer with over ten years of experience building software for the w
 
 #nodejs #javascript #typescript #react #reactnative #vuejs #angular #loopback #dotnetcore
 
-- Currently working on: An innovative insurance platform
+- Currently working on: an innovative insurance platform, an e-learning community platform, consulting
 - Currently learning: C# (.NET Core & Unity) / EventSourcing (EventStore & MartenDB) / Business Administration (ThePowerMBA)
 - How to reach me: [LinkedIn](https://www.linkedin.com/in/salvatoreformisano/) / [Twitter](https://twitter.com/sformisano)
