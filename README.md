@@ -1,6 +1,4 @@
-## Salvatore Formisano
-
-### Full-Stack Developer / Mobile Developer / Team Leader
+## Full-Stack Developer / Mobile Developer / Team Leader
 
 Software developer with over ten years of experience building software for the web, ranging from complex front-end clients to REST and GraphQL APIs, mobile apps, and more atypical projects like scraping tools, CLI utilities etc. in verticals such as healthcare, fintech, insurance, saas platforms, e-commerce etc.
 
