@@ -2,12 +2,7 @@
 
 Software developer with over ten years of experience building complex front-end clients, REST and GraphQL APIs, mobile apps, scraping tools, CLI utilities, in verticals such as healthcare, fintech, insurance, saas platforms, e-commerce.
 
-[LinkedIn](https://www.linkedin.com/in/salvatoreformisano/) / [Twitter](https://twitter.com/sformisano)
-
-### Currently
-
-* Working on: an innovative insurance platform, an e-learning community platform, consulting
-* Learning: C# (.NET Core) / EventSourcing (EventStore & MartenDB) / Business Administration (ThePowerMBA)
+[LinkedIn](https://www.linkedin.com/in/salvatoreformisano/)
 
 ### Technologies
 
