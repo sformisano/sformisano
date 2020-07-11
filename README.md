@@ -37,4 +37,4 @@ Software developer with over ten years of experience building complex front-end 
 * **OPS**
   * CI/CD: GitHub Actions, BitBucket Pipelines, GitLab Pipelines, CircleCI, CodeShip, Travis
   * Hosting: DigitalOcean, Heroku, Netlify
-  * PaaS: Firebase (RTDB/FireStore/Cloud Functions), Heroku, Netlify, AWS Lambda
+  * PaaS: Firebase, Heroku, Netlify, AWS Lambda
