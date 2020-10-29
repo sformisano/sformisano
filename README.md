@@ -1,4 +1,4 @@
-## Full-Stack De | Tech Lead | ThePowerMBA 2020
+## Full-Stack Dev | Tech Lead | Solutions Architect
 
 Software developer with over ten years of experience building complex front-end clients, REST and GraphQL APIs, mobile apps, scraping tools, CLI utilities, in verticals such as healthcare, fintech, insurance, SaaS platforms, e-commerce.
 
