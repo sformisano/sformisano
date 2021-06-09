@@ -1,4 +1,4 @@
-## Full-Stack Dev | Tech Lead | Solutions Architect
+## Full-Stack Dev | Engineering Lead | Solution Architect
 
 Software developer with over ten years of experience building complex front-end clients, REST and GraphQL APIs, mobile apps, scraping tools, CLI utilities, in verticals such as healthcare, fintech, insurance, SaaS platforms, e-commerce.
 
@@ -6,22 +6,18 @@ Software developer with over ten years of experience building complex front-end 
 
 ### Technologies
 
-* **JavaScript / TypeScript**
-  * Back-End: Node.js (Nest, Loopback, Express, Restify, Prisma)
-  * Front-End: React.js, Vue.js, Svelte, Angular, Angular.js, Ember.js, Backbone, jQuery, MooTools
-  * Mobile: ReactNative, Native Script, Ionic
-  * CMS: Strapi, KeystoneJS
+* **Rust**
+  * Back-End: Tokio, Actix-Web, Sqlx, Wiremock, Syn
 
 * **C#**
   * Full-Stack: .NET Core
   * Front-End: Blazor
 
-* **PHP**
-  * Full-Stack: Laravel, CodeIgniter
-  * CMS: WordPress
-
-* **Ruby**
-  * Full-Stack: Rails
+* **JavaScript / TypeScript**
+  * Back-End: Node.js (Nest, Loopback, Express, Restify, Prisma)
+  * Front-End: React.js, Vue.js, Svelte, Angular, Angular.js, Ember.js, Backbone, jQuery, MooTools
+  * Mobile: React Native, Native Script, Ionic
+  * CMS: Strapi
 
 * **HTML**
   * Emmet, Handlebars, Mustache
@@ -31,4 +27,4 @@ Software developer with over ten years of experience building complex front-end 
 
 * **OPS**
   * CI/CD: GitHub Actions, BitBucket Pipelines, GitLab Pipelines, CircleCI, CodeShip, Travis
-  * Hosting/PaaS: DigitalOcean, Google Cloud Platform, Firebase, Netlify, Heroku
+  * Hosting/PaaS: AWS, Google Cloud Platform, DigitalOcean, Firebase, Netlify, Heroku
