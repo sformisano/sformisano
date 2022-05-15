@@ -1,4 +1,4 @@
-## Full-Stack Dev | Engineering Lead | Solution Architect
+## Full-Stack Dev | Engineering Manager | Solutions Architect
 
 Software developer with over ten years of experience building complex front-end clients, REST and GraphQL APIs, mobile apps, scraping tools, CLI utilities, in verticals such as healthcare, fintech, insurance, SaaS platforms, e-commerce.
 
