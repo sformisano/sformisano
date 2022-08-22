@@ -1,30 +1,13 @@
 ## Full-Stack Dev | Engineering Manager | Solutions Architect
 
-Software developer with over ten years of experience building complex front-end clients, REST and GraphQL APIs, mobile apps, scraping tools, CLI utilities, in verticals such as healthcare, fintech, insurance, SaaS platforms, e-commerce.
+Thank you for your interest in my profile. I am:
+
+1) A software engineer with over 15 years of experience working on full-stack web applications, distributed systems, and technical leadership.
+
+2) A people-first manager who helps teams foster relationships based on trust, empathy, and respect.
+
+3) A firm believer in growth mindset, radical candor, and servant leadership as the secret superpowers of high-performing teams.
+
+My overarching goal is to create real, long-lasting value for teams, stakeholders, and users.
 
 [LinkedIn](https://www.linkedin.com/in/salvatoreformisano/)
-
-### Technologies
-
-* **Rust**
-  * Back-End: Tokio, Actix-Web, Sqlx, Wiremock, Syn
-
-* **C#**
-  * Full-Stack: .NET Core
-  * Front-End: Blazor
-
-* **JavaScript / TypeScript**
-  * Back-End: Node.js (Nest, Loopback, Express, Restify, Prisma)
-  * Front-End: React.js, Vue.js, Svelte, Angular, Angular.js, Ember.js, Backbone, jQuery, MooTools
-  * Mobile: React Native, Native Script, Ionic
-  * CMS: Strapi
-
-* **HTML**
-  * Emmet, Handlebars, Mustache
-  
-* **CSS**
-  * SCSS, BEM
-
-* **OPS**
-  * CI/CD: GitHub Actions, BitBucket Pipelines, GitLab Pipelines, CircleCI, CodeShip, Travis
-  * Hosting/PaaS: AWS, Google Cloud Platform, DigitalOcean, Firebase, Netlify, Heroku
