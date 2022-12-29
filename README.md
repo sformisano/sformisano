@@ -1,4 +1,4 @@
-## Full-Stack Dev | Engineering Manager | Solutions Architect
+## Full-Stack Dev | Engineering Manager
 
 Thank you for your interest in my profile. I am:
 
