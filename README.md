@@ -8,8 +8,7 @@ I still write code every day because I believe leaders should stay close to the 
 As a manager, I focus on trust, autonomy, and clear communication.  
 I value teams that take ownership and care deeply about what they deliver.
 
-Over the past four years I’ve developed a strong focus on Rust.  
-I believe it represents the future of reliable, high-performance software, and I use it to explore ideas around scalability, resilience, and simplicity in system design.
+Over the past four years I’ve developed a strong focus on Rust. I believe it represents the future of reliable, high-performance software, and I use it to explore ideas around scalability, resilience, and simplicity in system design.
 
 I’m currently creating frameworks and lessons that share what I’ve learned about building strong engineering cultures and sustainable technical systems.  
 
