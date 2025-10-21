@@ -1,7 +1,8 @@
 ### **Salvatore Formisano**  
 **Engineering Manager · Full-Stack Developer · Systems Architect**
 
-I’m a software engineer with more than fifteen years of experience building distributed systems, developer tools, and full-stack applications.  
+I’m a software engineer with more than fifteen years of experience building distributed systems, developer tools, and full-stack applications.
+
 I still write code every day because I believe leaders should stay close to the craft.
 
 As a manager, I focus on trust, autonomy, and clear communication.  
